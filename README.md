@@ -1,5 +1,28 @@
-# Agenda de Contatos
-## Projeto feito no curso Desenvolvedor Full-Stack Python pela EBAC
+# 📇 Agenda de Contatos
+
+## Projeto desenvolvido no curso Desenvolvedor Full-Stack Python pela EBAC
+
 ---
-Nesse projeto faço uso de HTML e CSS, e também adiciono JavaScript para construção da parte interativa, utilizando funções e condicionais, e o conceito de DOM para manipulação de tags e seletores.
-Confira o site neste link: (https://mono-projeto-calculadora-medias.vercel.app/)
+
+Neste projeto, foram utilizados **HTML** e **CSS** para estruturar e estilizar a página, além de **JavaScript** para implementar a interatividade.  
+A aplicação faz uso de funções, condicionais e manipulação do **DOM** para gerenciar os contatos dinamicamente.
+
+---
+
+## 🌐 Confira o site online
+
+🔗 [Acesse aqui](https://agenda-contatos-lovat-seven.vercel.app/)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Visual Studio Code  
+- Vercel (deploy)
+
+---
+
+💡 *Sinta-se livre para explorar, estudar e expandir este projeto!*
